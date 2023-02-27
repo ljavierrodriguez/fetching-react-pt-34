@@ -1,0 +1,13 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "text": "First Note"
+    },
+    {
+      "text": "Sencond Note",
+      "id": 2
+    }
+  ],
+  "users": []
+}
